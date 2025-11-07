@@ -9,8 +9,8 @@
 - updating data by server actions without using any api
 - managing shopping cart using http cookies on server side
 - handling authentication and authorization by next-auth
-- creating customer dashboard to update profile and track orders
-- and implement a fully-functional admin dashboard with beautiful charts and handling products, orders and users
+- creating customer profile and track orders
+- and implement a fully-functional beautiful charts and handling products, orders and users
 ## Technology
 |                |                                  |
 | -------------- | -------------------------------- |
