@@ -1,5 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Build Full-ECommerce Website By Next.js 16 TypeScript & MongoDB
 
+|                |                                  |
+| -------------- | -------------------------------- |
+| Frmework       | Next.js , React             |
+| UI             | Tailwind, Shadcn, Recharts       |
+| Database       | MongoDB, Mongoose                |
+| Payment        |  Stripe                   |
+| Deployment     | Github, Vercel                   |
+| Authentication | Auth.js, Google Auth, Magic Link |
+| Others         | uploadthing, resend, zod, etc    |
+
+[![Next.js MongoDB Amazona](/public/images/app.png)](https://next-mongo-ecommerce-final.vercel.app/)
+
+## Watch Video Tutorial
+
+[![Next.js MongoDB Amazona](https://i9.ytimg.com/vi/WLHCPwqHzzQ/mqdefault.jpg?v=676eca94&sqp=CIzAv7sG&rs=AOn4CLDrL8ebdZ8YJyJp96oMMKBTyAD1Dw)](https://youtu.be/WLHCPwqHzzQ)
+
+## View Demo Website
 ## Getting Started
 
 First, run the development server:
