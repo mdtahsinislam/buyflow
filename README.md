@@ -1,5 +1,5 @@
-# Build Full-ECommerce Website By Next.js 16 TypeScript & MongoDB
-
+# BuyFlow-ECommerce Website By Next.js 16 TypeScript & MongoDB
+## Technology
 |                |                                  |
 | -------------- | -------------------------------- |
 | Frmework       | Next.js , React             |
@@ -10,13 +10,11 @@
 | Authentication | Auth.js, Google Auth, Magic Link |
 | Others         | uploadthing, resend, zod, etc    |
 
-[![Next.js MongoDB Amazona](/public/images/app.png)](https://next-mongo-ecommerce-final.vercel.app/)
+![Next.js MongoDB Amazona](https://github.com/mdtahsinislam/buyflow/blob/1bd96dd00435e5516de70bb6f1f64b099f5fb3f2/buyflow2.png)
 
-## Watch Video Tutorial
+# Live Website: https://buyflow-sooty.vercel.app/
 
-[![Next.js MongoDB Amazona](https://i9.ytimg.com/vi/WLHCPwqHzzQ/mqdefault.jpg?v=676eca94&sqp=CIzAv7sG&rs=AOn4CLDrL8ebdZ8YJyJp96oMMKBTyAD1Dw)](https://youtu.be/WLHCPwqHzzQ)
 
-## View Demo Website
 ## Getting Started
 
 First, run the development server:
