@@ -1,4 +1,16 @@
-# BuyFlow-ECommerce Website By Next.js 16 TypeScript & MongoDB
+# 🎯 BuyFlow-ECommerce Website By Next.js 16 TypeScript & MongoDB
+## Project Overview
+
+- creating e-commerce website pages by next.js server components
+- designing header, footer, sidebar, menu and search box by shadcn and tailwind
+- quick view products in modals using nextjs parallel routes with intercepting routes
+- create database models by Mongoose and MongoDB database
+- handling form inputs by react-hook-forms and zod data validator
+- updating data by server actions without using any api
+- managing shopping cart using http cookies on server side
+- handling authentication and authorization by next-auth
+- creating customer dashboard to update profile and track orders
+- and implement a fully-functional admin dashboard with beautiful charts and handling products, orders and users
 ## Technology
 |                |                                  |
 | -------------- | -------------------------------- |
@@ -12,7 +24,7 @@
 
 ![Next.js MongoDB Amazona](https://github.com/mdtahsinislam/buyflow/blob/1bd96dd00435e5516de70bb6f1f64b099f5fb3f2/buyflow2.png)
 
-# Live Website: https://buyflow-sooty.vercel.app/
+# 🌐 Live Website: https://buyflow-sooty.vercel.app/
 
 
 ## Getting Started
