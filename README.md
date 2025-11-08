@@ -1,4 +1,7 @@
 ## 🎯 BuyFlow-ECommerce Website By Next.js 16 TypeScript & MongoDB
+![Next.js MongoDB Amazona](https://github.com/mdtahsinislam/buyflow/blob/1bd96dd00435e5516de70bb6f1f64b099f5fb3f2/buyflow2.png)
+
+# 🌐 Live Website: https://buyflow-sooty.vercel.app/
 ## Project Overview
 
 - creating e-commerce website pages by next.js server components
@@ -22,9 +25,7 @@
 | Authentication | Auth.js, Google Auth, Magic Link |
 | Others         | uploadthing, resend, zod, etc    |
 
-![Next.js MongoDB Amazona](https://github.com/mdtahsinislam/buyflow/blob/1bd96dd00435e5516de70bb6f1f64b099f5fb3f2/buyflow2.png)
 
-# 🌐 Live Website: https://buyflow-sooty.vercel.app/
 
 
 ## Getting Started
